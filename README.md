@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveenkumar39
+- 👋 Hi, I’m @praveenkumar
 - 👀 I’m interested in ... Java 
 - 🌱 I’m currently learning ... Scada 
 - 💞️ I’m looking to collaborate on ... R
